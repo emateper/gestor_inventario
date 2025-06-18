@@ -1,0 +1,11 @@
+[
+    {
+        "tipo": "revista",
+        "nombre": "La cosa",
+        "precio": 100.0,
+        "stock": 400,
+        "id": 1,
+        "tema": "Cine",
+        "periodicidad": "semanal"
+    }
+]
